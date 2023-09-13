@@ -64,8 +64,8 @@
     "uniqCompNum": 171,
     "versionPublish": "5.9.4",
     "favicon": false,
-    "mbrsiteDomain": "uhxs4qalpv",
-    "imageResize": true,
+    "mbrsiteDomain": "3alapnpuac",
+    "imageResize": false,
     "usedWebp": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -74,7 +74,7 @@
     "cookiesAlert": false,
     "gdpr": false,
     "screenshot": "screenshot.png",
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
